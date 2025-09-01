@@ -18,6 +18,10 @@ A simple, customizable music controller using ESP32 and the [ESP32-BLE-Keyboard]
 
 ---
 
+![项目展示图](images/demo.jpg)
+
+---
+
 ## 🛠️ 硬件连接 | Hardware Setup
 
 所有按键均使用 `INPUT_PULLUP` 输入模式。  
