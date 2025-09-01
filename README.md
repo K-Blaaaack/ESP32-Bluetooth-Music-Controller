@@ -18,7 +18,11 @@ A simple, customizable music controller using ESP32 and the [ESP32-BLE-Keyboard]
 
 ---
 
-![项目展示图](images/demo.jpg)
+## 📷 项目展示 | Project Demo
+
+<div align="center">
+  <img src="images/demo.jpg" alt="项目展示图 Demo" style="max-width: 80%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
 
 ---
 
